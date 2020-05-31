@@ -21,7 +21,7 @@ def main(argv=None):
     # ensures the user hasn't passed any other unrecognized arguments.
     parser.parse_args(argv[1:])
 
-    print("Hello World! This is Jessica, you are welcome")
+    print("Hello World! This is admin-code")
     print("\n this is a new idea, and this change is submitted into new_idea branch")
 
     return 0
