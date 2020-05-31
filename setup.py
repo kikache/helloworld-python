@@ -1,5 +1,6 @@
 import io
 import os.path
+import commands
 from setuptools import setup
 
 VERSION_PATH = os.path.join(
